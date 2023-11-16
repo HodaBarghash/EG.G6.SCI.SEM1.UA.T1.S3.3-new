@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5lilw1dVX7l" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">EG.G6.SCI.SEM1.UA.T1.S3.3</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="EG.G6.SCI.SEM1.UA.T1.S3.3_ORG">
+    <organization identifier="EG.G6.SCI.SEM1.UA.T1.S3.3_ORG">
+      <title>EG.G6.SCI.SEM1.UA.T1.S3.3</title>
+      <item identifier="EG.G6.ESCI.SEM1.UA.T1.S3.3_Q2_SCO" isvisible="true" identifierref="__5lilw1dVX7l_RES">
+        <title>EG.G6.SCI.SEM1.UA.T1.S3.3</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5lilw1dVX7l_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5yU1mKhuxTa_44100_160_0.mp3" />
+      <file href="mobile/5kjPCj26lVt.png" />
+      <file href="mobile/6CtOwGOXTZ8.png" />
+      <file href="mobile/5osSw24Tyqq.png" />
+      <file href="mobile/5vYcZ3zWPUN.png" />
+      <file href="mobile/5stYeVhlz5t.png" />
+      <file href="mobile/6f1izkNZxO1.png" />
+      <file href="mobile/6h1mB8uEk1C.png" />
+      <file href="mobile/5ybWBe7GPQb_P_609_417_847_856.png" />
+      <file href="story_content/6Ay5449PR32_44100_160_0.mp3" />
+      <file href="story_content/6rM92gny1E5_44100_160_0.mp3" />
+      <file href="story_content/6NlfKrTByff_44100_160_0.mp3" />
+      <file href="mobile/61kVqVoCpO2.png" />
+      <file href="mobile/5i3GQjH0SaU.png" />
+      <file href="story_content/6BRPqP3ao8V_44100_160_0.mp3" />
+      <file href="mobile/61kVqVoCpO2_C-40_P_46_42_1954_340.png" />
+      <file href="story_content/6qRxpsWGTDI_44100_160_0.mp3" />
+      <file href="mobile/5acePXrvBuf.gif" />
+      <file href="story_content/5tAdBpaPZcW_44100_160_0.mp3" />
+      <file href="mobile/6a2guQlCWq1.gif" />
+      <file href="story_content/6IVE8iutfxu_44100_160_0.mp3" />
+      <file href="mobile/61kVqVoCpO2_C-30.png" />
+      <file href="meta.xml" />
+      <file href="story_content/5bn5BySCWXE.png" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6hk0JSCvB9V.js" />
+      <file href="html5/data/js/6llJMKETKVH.js" />
+      <file href="html5/data/js/6UBSdDsPuGT.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
